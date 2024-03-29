@@ -1,0 +1,121 @@
+/************************ BODY ********************/
+body {
+    background-color: #393d41;
+    font-family:'Open Sans';
+    font-size: 1,5;
+    text-align: center;
+    padding: 20px;
+    line-height: 1,65;
+    width: 50em;
+    border: 1px solid;
+    margin: auto;
+
+}
+/***********************HEADER*********************/
+header {
+    background-color: black;
+    background-position: center;
+    padding: 20px;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+/***********************MAIN***********************/
+main {
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 0;
+padding-bottom: 0;
+background-size: auto;
+}
+main h1, h2 {
+    color: #25a2c3;
+    font-family:'Montserrat';
+    font-weight: bold;
+    line-height: 1,5;    
+}
+#contenitore {
+    background-image: url(../Corso/1°Settimana/5\ °\ Giorno/);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 50px;
+}
+h1 {
+    margin-top: 0;
+    padding-top: 50px;
+}
+main article img {
+    width: 150px;
+    height: 150px;
+}
+
+main div a {
+    background-color: #f04c2f;
+    text-decoration: none;
+    color: white;
+    border-radius: 10%;
+    padding: 5px;
+    text-transform: uppercase;
+
+}
+/************************ARTICLE********************/
+article {
+    background-color: white;
+}
+h2 {
+    margin-top: 0;
+    padding-top: 20px;
+}
+.paragrafo1 {
+    margin-bottom: 0;
+}
+article img {
+    border-radius: 50%;
+}
+/************************SECTION********************/
+section {
+    background-color: #e22d0e;
+    color: white;
+}
+.testo_bianco {
+    color: white;
+    margin-top: 0;
+
+}
+
+/************************ASIDE**********************/
+aside {
+    background-color: white;
+
+}
+aside img {
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+}
+aside h2 {
+    padding-top: 10px;
+}
+.paragrafo2 {
+    margin-bottom: 0px;
+}
+.riquadro {
+    width: 320px;
+    border: 1px solid;
+    word-wrap: break-word;
+} 
+
+/*************************FOOTER**********************/
+footer {
+    background-color: #25a2c3;
+    color: white;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+nav ul li {
+ list-style-position: inside;
+    
+}
+footer h1 {
+color: white;
+}
